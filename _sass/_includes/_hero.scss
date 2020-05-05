@@ -47,6 +47,14 @@
 		}
 	}
 
+	h4 {
+		color: $hero-text-color;
+
+		@include mq(tabletp) {
+			white-space: pre-line;
+		}
+	}
+
 	p {
 		color: rgba($hero-text-color, 0.8);
 

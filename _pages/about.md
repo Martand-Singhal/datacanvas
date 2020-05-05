@@ -1,5 +1,5 @@
 ---
-title: Data Scientist/Analyst, Business Intelligence Professional
+title: Data Scientist/Analyst
 subtitle: Personal is the perfect theme for developers, designers and other creatives.
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/home2.jpg
