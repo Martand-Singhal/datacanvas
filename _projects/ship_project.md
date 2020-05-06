@@ -10,7 +10,7 @@ description: A web app that analyzes the ship traffic in real-time. Built with P
 
 ## Analyze the key performance indicators (KPIs) to best organize the ship maintenance schedule 
 
-Imagine that you are a ship maintenance service provider for Marseille port. You want to better understand the traffic at the port to help you organize your resources such as manpower required, tooling needed, material requirements etc. For this, you would like to build an app that would help you track key ship characteristics such as arrival/departure status, ship length and speed etc. [Here](http://207.154.205.68:8007/) is a demo app that tracks these metrics in real-time (If you have problems opening the app, then please ensure that the **http** connections are not blocked. Tha app needs an SSl certification to workd with https).
+Imagine that you are a ship maintenance service provider for Marseille port. You want to better understand the traffic at the port to help you organize your resources such as manpower required, tooling needed, material requirements etc. For this, you would like to build an app that would help you track key ship characteristics such as arrival/departure status, ship length and speed etc. [Here](http://207.154.205.68:8007/) is a demo app that tracks these metrics in real-time (If you have problems opening the app, then please ensure that the **http** connections are not blocked. Tha app needs an ssl certification to work with https).
 
 ## How does the app works?
 
