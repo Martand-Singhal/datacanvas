@@ -6,7 +6,7 @@ description: A web app that analyzes the ship traffic in real-time. Built with P
 # featured_image: '/images/demo/demo-square.jpg'
 ---
 
-<!-- ![](/images/demo/demo-landscape.jpg) -->
+![](/images/projects/port.jpg)
 
 ## Analyze the key performance indicators (KPIs) to best organize the ship maintenance schedule 
 
