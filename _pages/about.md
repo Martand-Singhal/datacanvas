@@ -1,12 +1,12 @@
 ---
-title: Data Scientist
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
+title: Martand Singhal
+subtitle: Data Professional
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/demo/home2.jpg
 date: 2016-03-23T10:20:00Z 
 ---
 
-I am a data scientist passionate about helping organizations maximize the value of their data and helping them build a data-driven culture by establishing best practices.
+I am a data professional passionate about helping organizations maximize the value of their data and helping them build a data-driven culture by establishing best practices.
 
 I combine years of research and industrial experience which puts me into a unique position to identify key challenges and address them with a pragmatic yet rigorous approach.
 
